@@ -1,0 +1,1564 @@
+Reading file from: /home/ofer/work/wotr/plan/AB-plan.xlsx
+Sheet Names: [ 'תוכנית אימונים', 'אירובי', 'בנק תרגילים' ]
+
+--- Sheet: תוכנית אימונים ---
+[
+  [],
+  [],
+  [],
+  [],
+  [
+    null,
+    null,
+    null,
+    null,
+    null,
+    "דגשים כללים לאימון"
+  ],
+  [
+    "פרטים אישיים",
+    null,
+    "הנחיות כלליות: ",
+    null,
+    null,
+    "לא לתת כמות לתת איכות!"
+  ],
+  [
+    "שם המתאמן:",
+    "עופר הרמן",
+    "1. הקפידו על חימום לפני האימון והתאוששות בסיומו",
+    null,
+    null,
+    "ביצוע חזרות:"
+  ],
+  [
+    "שם המדריך:",
+    "ינון פיינגאלד",
+    "2. יש לשמור על קצב ביצוע איטי ומבוקר",
+    null,
+    null,
+    "שניה האחת מבוקרת כיווץ"
+  ],
+  [
+    "גובה:",
+    null,
+    "3. יש להתייעץ עם מדריך לגבי תרגילים חדשים",
+    null,
+    null,
+    "שניה אחת של החזקה סטטית בשיא הכיווץ"
+  ],
+  [
+    "תאריך:",
+    "29/02/2026",
+    "4. יש להתאמן עם מגבת ובגדי ספורט בלבד",
+    null,
+    null,
+    "4 שניות של הרפיה"
+  ],
+  [
+    "מין:",
+    "זכר",
+    "5. הגבירו את העומס באימון בצורה הדרגתית ובהתאם להנחיות המדריכים",
+    null,
+    null,
+    "משקלי עבודה:"
+  ],
+  [
+    "גיל",
+    53,
+    "6. יש להקפיד על תזונה מתאימה לפעילות גופנית",
+    null,
+    null,
+    "תמיד לעבוד בטווח החזרות!"
+  ],
+  [
+    "דופק במנוחה:",
+    null,
+    "7. בכל מקרה של הופעת כאב / לחץ / חולשה / קוצר נשימה יש להפסיק אימון ולפנות להתייעצות רפואית דחופה ",
+    null,
+    null,
+    "אם לא הצלחנו 8 חזרות - מורידים מעט משקל"
+  ],
+  [
+    "לחץ דם:",
+    null,
+    "8.  צוות המאמנים האישיים ישמח לעמוד לרשותך וללוות אותך לתוצאות.",
+    null,
+    null,
+    "אם עברנו 16+ חזרות - מעלים מעט משקל"
+  ],
+  [
+    "היקף מותן:"
+  ],
+  [
+    "עצימות אימון אירובי",
+    null,
+    "לוגו",
+    null,
+    null,
+    "תרגילים בעדיפות גבוהה"
+  ],
+  [
+    "דופק מטרה",
+    0,
+    "לו"
+  ],
+  [
+    "מטרה מרכזית",
+    "שיפור כושר גופני"
+  ],
+  [
+    null,
+    null,
+    null,
+    null,
+    null,
+    "לאימונים אישיים"
+  ],
+  [
+    "חימום ",
+    null,
+    null,
+    null,
+    null,
+    "ינון פיינגאלד"
+  ],
+  [
+    "העלת דופק ",
+    "הליכה על הליכון 5-10 דקות עד הזעה קלה ",
+    null,
+    null,
+    null,
+    "053-7222330"
+  ],
+  [
+    "תנועתיות ",
+    "סיבובי מפרקים , צוואר , שכמות , כתפיים , ברכיים אגן , עמוד שדרה"
+  ],
+  [],
+  [
+    "כוח"
+  ],
+  [
+    "יום",
+    "קבוצת שריר",
+    "שם התרגיל",
+    "מספר תחנה",
+    "שם (אנגלית)",
+    "גובה המושב",
+    "חזרות",
+    "סטים",
+    "משקל",
+    "מנוחה (בשניות)",
+    "הערות"
+  ],
+  [
+    "A",
+    "גב",
+    "הטיית גב בכיסא רומי",
+    52,
+    null,
+    null,
+    "10",
+    "3",
+    "10 ק\"ג",
+    null,
+    "אם קל להעלות משקל"
+  ],
+  [
+    null,
+    null,
+    "דדליפט רומני בSM",
+    0,
+    null,
+    null,
+    "8",
+    "3",
+    "לא לעבור את ה10 בכל צד",
+    null,
+    "לעוד לאט ומדוייק - להרגיש את המתיחה בהמסטרינג"
+  ],
+  [
+    null,
+    null,
+    "משיכת פולי עליון באחיזה רחבה לפנים בישיבה (עם מוט)",
+    49,
+    "Wide grip seated lat pulldown",
+    null,
+    12,
+    3
+  ],
+  [
+    null,
+    null,
+    "חתירה באחיזה צרה בישיבה עם פולי תחתון",
+    51,
+    "Narrow grip seated row with lower pulley",
+    null,
+    12,
+    3
+  ],
+  [
+    null,
+    null,
+    "פשיטת כתף בעמידה מפולי עליון (פולאוובר)",
+    48,
+    "Standing straight arm pulldown  from upper pulley ",
+    null,
+    10,
+    3
+  ],
+  [
+    null,
+    "יד קדמית",
+    "כפיפות מרפק בישיבה עם משקולות (פטישים)",
+    0,
+    "Seated biceps curls with dumbbells (mid position)",
+    null,
+    "6/8",
+    3,
+    null,
+    null,
+    "בסט 3 כבר יהיה קשה 6 חזרות"
+  ],
+  [
+    null,
+    null,
+    "כפיפת מרפקים בשיפוע 45 מעלות בשכיבה",
+    0,
+    null,
+    null,
+    "6/8",
+    3
+  ],
+  [
+    null,
+    "רגליים",
+    "סקוואט בעמידה עם מוט",
+    0,
+    "Standing squat with barbell",
+    null,
+    5,
+    6,
+    "40%-90%",
+    null,
+    "להעלות 10% כל סט"
+  ],
+  [
+    null,
+    null,
+    "פשיטת ברך בישיבה במכונה",
+    33,
+    "Seated knee extension  machine",
+    null,
+    15,
+    2
+  ],
+  [
+    null,
+    null,
+    "כפיפת ברך בישיבה במכונה",
+    32,
+    "Seated leg curl machine",
+    null,
+    15,
+    2
+  ],
+  [
+    null,
+    null,
+    "לחיצת רגליים בישיבה במכונה",
+    31,
+    " Seated machine Leg press  ",
+    null,
+    5,
+    6,
+    "40%-90%",
+    null,
+    "להעלות 10% כל סט"
+  ],
+  [
+    null,
+    null,
+    "תאומים במכונה של לחיצת רגליים",
+    31,
+    null,
+    null,
+    15,
+    2
+  ],
+  [
+    null,
+    "בטן",
+    "כפיפת בטן בשכיבה בשיפוע שלילי",
+    53,
+    "Decline lying crunches",
+    null,
+    20,
+    2,
+    "פלטה של 5",
+    null,
+    "להעלות משקל אם קל"
+  ],
+  [
+    "B",
+    "חזה",
+    "לחיצת חזה כנד כבל",
+    48,
+    null,
+    null,
+    12,
+    3
+  ],
+  [
+    null,
+    null,
+    "לחיצת חזה בשכיבה עם מוט",
+    44,
+    "Lying bench press with barbell",
+    null,
+    5,
+    6,
+    "40%-90%",
+    null,
+    "להעלות 10% כל סט"
+  ],
+  [
+    null,
+    null,
+    "לחיצת חזה בשכיבה בשיפוע חיובי עם משקולות יד ",
+    0,
+    "dumbbell incline bench press",
+    null,
+    "6/8",
+    3,
+    null,
+    null,
+    "בסט 3 כבר יהיה קשה 6 חזרות"
+  ],
+  [
+    null,
+    null,
+    "פרפר בישיבה במכונה ",
+    30,
+    "Seated pec flys  machine",
+    null,
+    12,
+    3
+  ],
+  [
+    null,
+    "יד אחורית",
+    "פשיטת מרפק בעמידה עם פולי עליון (מוט)",
+    48,
+    null,
+    null,
+    "8/12",
+    3
+  ],
+  [
+    null,
+    null,
+    "פשיטת מרפק בעמידה עם פולי תחתון (חבל)",
+    48,
+    "Standing triceps extension with low pulley (rope)",
+    null,
+    "8/12",
+    3
+  ],
+  [
+    null,
+    null,
+    "פשיטת מרפק בהטיית גב עם משקולת יד",
+    0,
+    null,
+    null,
+    "6/8",
+    3,
+    null,
+    null,
+    "בסט 3 כבר יהיה קשה 6 חזרות"
+  ],
+  [
+    null,
+    "כתפיים",
+    "הרחקת כתף בעמידה עם משקולות יד",
+    0,
+    null,
+    null,
+    8,
+    3
+  ],
+  [
+    null,
+    null,
+    "הרחקת כתף אופקית בישיבה במכונה ( פנים למכשיר)",
+    30,
+    null,
+    null,
+    12,
+    2
+  ],
+  [
+    null,
+    null,
+    "לחיצת כתף בישיבה על ספסל כנגד משקולות יד ",
+    0,
+    "Seated Shoulder Press with Dumbbells",
+    null,
+    "6/8",
+    5,
+    null,
+    null,
+    "בסט 3-5 כבר יהיה קשה 6 חזרות"
+  ],
+  [
+    null,
+    null,
+    "משיכה רחבה בעמידה למצח עם פולי (פייספוול)",
+    48,
+    "Standing wide pull to forehead with pulley (face pull)",
+    null,
+    10,
+    2
+  ],
+  [
+    null,
+    null,
+    null,
+    0,
+    0
+  ],
+  [
+    null,
+    null,
+    null,
+    0,
+    0
+  ],
+  [
+    null,
+    null,
+    null,
+    0,
+    0
+  ],
+  [
+    "דגשים",
+    null,
+    "40-50% (5 חזרות)",
+    null,
+    "60-70% (3-4 חזרות)",
+    null,
+    "80-90% (2-3 חזרות )"
+  ],
+  [
+    "דגשים",
+    null,
+    "לבחור 1 מבין השתיים ,בכל אימון אחד אחר"
+  ],
+  [
+    "סיכום והמלצות"
+  ],
+  [
+    "תכנון אימונים שבועי",
+    "לעשות מבדק חודשי של יכולת שיא לחזרה אחת בתרגילי אחוזים "
+  ],
+  [
+    "כללי",
+    "לצרוך 1.6 גר' חלבון X קג' גוף"
+  ],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  []
+]
+
+--- Sheet: אירובי ---
+[
+  [
+    "אירובי"
+  ],
+  [
+    "הליכה על הליכון"
+  ],
+  [
+    "ריצה בהליכון"
+  ],
+  [
+    "אליפטי"
+  ],
+  [
+    "מדרגות"
+  ],
+  [
+    "אופניים"
+  ]
+]
+
+--- Sheet: בנק תרגילים ---
+[
+  [
+    "גב"
+  ],
+  [
+    "חתירה בהטיית גו עם משקולת",
+    null,
+    "Bent-over row with dumbbell"
+  ],
+  [
+    "משיכת פולי עליון באחיזה רחבה לפנים בישיבה (עם מוט)",
+    49,
+    "Wide grip seated lat pulldown"
+  ],
+  [
+    "חתירה בעמידה בהטיית גו עם מוט",
+    null,
+    "barbel bent over row"
+  ],
+  [
+    "חתירה באחיזה צרה בישיבה עם פולי תחתון",
+    51,
+    "Narrow grip seated row with lower pulley"
+  ],
+  [
+    "חתירה בשכיבה (על הבטן) בשיפוע חיובי עם מוט",
+    null,
+    "Lying row (on stomach) with positive incline using barbell"
+  ],
+  [
+    "חתירה בשכיבה (על הבטן) בשיפוע חיובי עם משקולות יד",
+    null,
+    "Lying row (on stomach) with positive incline using dumbbells"
+  ],
+  [
+    "חתירה צרה בעמידה בהטייה גו עם  T-BAR ",
+    null,
+    "Narrow grip standing bent-over row with T-BAR"
+  ],
+  [
+    "חתירה רחבה בעמידה בהטייה גו עם  T-BAR ",
+    null,
+    "Wide grip standing bent-over row with T-BAR"
+  ],
+  [
+    "חתירה צרה בישיבה במכונה",
+    51,
+    "Narrow grip seated row machine"
+  ],
+  [
+    "חתירה רחבה בישיבה במכונה",
+    51,
+    "Wide grip seated row machine"
+  ],
+  [
+    "עליות מתח באחיזה נטרלית",
+    null,
+    "Neutral grip pull-ups"
+  ],
+  [
+    "עליות מתח באחיזה נטרלית (במכונה \\ גומיה)",
+    null,
+    "Neutral grip pull-ups (machine/band assisted)"
+  ],
+  [
+    "עליות מתח באחיזה עלית",
+    null,
+    "Overhand grip pull-ups"
+  ],
+  [
+    "עליות מתח באחיזה נטרלית (בתוספת משקל)",
+    null,
+    "Neutral grip pull-ups (with added weight)"
+  ],
+  [
+    "עליות מתח באחיזה עלית (במכונה \\ גומיה)",
+    null,
+    "Overhand grip pull-ups (machine/band assisted)"
+  ],
+  [
+    "עליות מתח באחיזה עלית (בתוספת משקל)",
+    null,
+    "Overhand grip pull-ups (with added weight)"
+  ],
+  [
+    "עליות מתח באחיזה תחתית",
+    null,
+    "Underhand grip pull-ups"
+  ],
+  [
+    "עליות מתח באחיזה תחתית (במכונה \\ גומיה)",
+    null,
+    "Underhand grip pull-ups (machine/band assisted)"
+  ],
+  [
+    "עליות מתח באחיזה תחתית (בתוספת משקל)",
+    null,
+    "Underhand grip pull-ups (with added weight)"
+  ],
+  [
+    "משיכה צרה בישיבה מפולי עליון (משולש)",
+    49,
+    "Narrow seated pulldown from upper pulley (triangle handle)"
+  ],
+  [],
+  [
+    "משיכה צרה תחתית בישיבה מפולי עליון (עם מוט)",
+    49,
+    "Narrow lower grip seated pulldown from upper pulley (with bar)"
+  ],
+  [
+    "פשיטת כתף בעמידה מפולי עליון (פולאוובר)",
+    48,
+    "Standing straight arm pulldown  from upper pulley "
+  ],
+  [
+    "משיכה בישיבה במכונה ",
+    38,
+    "Seated pull  machine"
+  ],
+  [
+    "פשיטת כתף בשכיבה עם מוט W (פולאוובר)",
+    null,
+    "Lying straight arm pulldown with W bar"
+  ],
+  [
+    "פשיטת כתף בשכיבה עם משקולת (פולאוובר)",
+    null,
+    "Lying straight arm pulldown  with dumbbell"
+  ],
+  [
+    "פשיטת כתף בשכיבה עם מוט מפולי עליון(פולאוובר)",
+    48,
+    "Lying straight arm pulldown with bar from upper pulley"
+  ],
+  [
+    "משיכה צרה בישיבה מפולי עליון עם 2 ידיות",
+    49,
+    "Narrow Seated Row from Upper Pulley with Two Handles"
+  ],
+  [
+    "משיכה צרה בישיבה מפולי עליון עם ידית אחת(אה סימטרי)",
+    49,
+    "Narrow Seated Row from Upper Pulley with One Handle (Asymmetric)"
+  ],
+  [
+    "משיכה צרה בישיבה במכונה (האמר)",
+    42,
+    "Narrow Seated Row on Hammer Machine"
+  ],
+  [
+    "משיכה רחבה בישיבה במכונה (האמר)",
+    42,
+    "Wide Seated Row on Hammer Machine"
+  ],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [
+    "רגליים"
+  ],
+  [
+    "סקווט בעמידה בSM",
+    47,
+    "Standing squat with Smith Machine"
+  ],
+  [
+    "מכרעים בעמידה עם SM",
+    47,
+    "Standing lunges with Smith Machine"
+  ],
+  [
+    "לחיצת רגליים בישיבה במכונה",
+    31,
+    " Seated machine Leg press  "
+  ],
+  [
+    "לחיצת רגליים בישיבה בשיפוע חיובי במכונה (האמר)",
+    41,
+    "seated incline machine Leg press  (Hammer)"
+  ],
+  [
+    "פשיטת ברך בישיבה במכונה",
+    33,
+    "Seated knee extension  machine"
+  ],
+  [
+    "כפיפת ברך בישיבה במכונה",
+    32,
+    "Seated leg curl machine"
+  ],
+  [
+    "קירוב ירך בישיבה במכונה",
+    34,
+    "Seated hip adduction machine"
+  ],
+  [
+    "הרחקת ירך בישיבה במכונה",
+    35,
+    "Seated hip abduction  machine"
+  ],
+  [
+    "הרחקת ירך בעמידה בפולי",
+    48,
+    "Standing hip abduction with pulley"
+  ],
+  [
+    "סקוואט בעמידה עם מוט",
+    null,
+    "Standing squat with barbell"
+  ],
+  [
+    "מכרעים בעמידה עם משקולות יד",
+    null,
+    "Standing lunges with dumbbells"
+  ],
+  [
+    "מכרעים בעמידה עם קטלבט",
+    null,
+    "Standing lunges with kettlebell"
+  ],
+  [
+    "מכרעים בעמידה דינאמי",
+    null,
+    "Dynamic standing lunges"
+  ],
+  [
+    "מכרעים אחוריים  בעמידה ",
+    null,
+    "Rear standing lunges"
+  ],
+  [
+    "מכרעים קדמיים  בעמידה ",
+    null,
+    "Front standing lunges"
+  ],
+  [
+    "מכרע סטאטי בעמידה",
+    null,
+    "Static standing lunge"
+  ],
+  [
+    "סקוואט בעמידה עם טראפבר",
+    null,
+    "Standing squat with trap bar"
+  ],
+  [
+    "היפ טראסט עם מוט",
+    null,
+    "Hip thrust with barbell"
+  ],
+  [
+    "היפ טראסט עם משקולת",
+    null,
+    "Hip thrust with dumbbell"
+  ],
+  [
+    "סומו סקוואט בעמידה במוט",
+    null,
+    "standing Sumo squat  with barbell"
+  ],
+  [
+    "פשיטת גו בכיסא רומי",
+    null,
+    "machine back extension"
+  ],
+  [
+    "בעמידה כפיפה כפית ב- SM/משקולת (תאומים)",
+    null,
+    "standing calf raise (s.m/ dumbbels)"
+  ],
+  [
+    "בישיבה כפיפה כפית במכונה / S.M תאומים",
+    null,
+    "seated calf raise (s.m)"
+  ],
+  [
+    "דד ליפט עם trap bar",
+    null,
+    "Deadlift with Trap Bar"
+  ],
+  [],
+  [
+    "חזה"
+  ],
+  [
+    "לחיצת חזה בישיבה במכונה",
+    36,
+    "Seated bench press  machine"
+  ],
+  [
+    "לחיצת חזה בשכיבה בסמית' משין",
+    47,
+    "Lying bench press with Smith Machine"
+  ],
+  [
+    "לחיצת חזה בשכיבה עם מוט",
+    44,
+    "Lying bench press with barbell"
+  ],
+  [
+    "לחיצת חזה בשכיבה עם משקולות יד",
+    null,
+    "Lying bench press with dumbbells"
+  ],
+  [
+    "פרפר בעמידה  בפולי אמצעי",
+    48,
+    "Standing midle cable cross-over flys"
+  ],
+  [
+    "שכיבות סמיכה",
+    null,
+    "Push-ups"
+  ],
+  [
+    "פרפר בישיבה במכונה ",
+    30,
+    "Seated pec flys  machine"
+  ],
+  [
+    "לחיצת חזה בשכיבה בשיפוע חיובי בסמית' משין",
+    47,
+    "Smith Machine incline press"
+  ],
+  [
+    "לחיצת חזה בשכיבה בשיפוע חיובי  במכונה",
+    28,
+    "machine incline press "
+  ],
+  [
+    "לחיצת חזה בשכיבה בשיפוע חיובי עם מוט",
+    40,
+    "barbbel incline bench press"
+  ],
+  [
+    "לחיצת חזה בשכיבה בשיפוע חיובי עם משקולות יד ",
+    null,
+    "dumbbell incline bench press"
+  ],
+  [
+    "לחיצה חזה בשכיבה בשיפוע שלילי על ספסל עם מוט",
+    null,
+    "barbbel decline bench press"
+  ],
+  [
+    "מקבילים בהטיית גוף קדימה",
+    null,
+    "Dips wide grip"
+  ],
+  [
+    "פרפר בעמידה בפולי עליון",
+    48,
+    "Standing high cable cross-over flys"
+  ],
+  [
+    "פרפר בעמידה  בפולי תחתון",
+    48,
+    "Standing low cable cross-over flys"
+  ],
+  [
+    "פרפר בשכיבה בשיפוע חיובי עם משקולות יד ",
+    null,
+    "incline dumbbell flys"
+  ],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [
+    "יד קדמית"
+  ],
+  [
+    "כפיפות מרפק בישיבה עם משקולות (פטישים)",
+    null,
+    "Seated biceps curls with dumbbells (mid position)"
+  ],
+  [
+    "כפיפות מרפק בישיבה בכסא כומר עם מוט W",
+    null,
+    "Seated preacher biceps curls with W bar"
+  ],
+  [
+    "כפיפות מרפק בישיבהעם משקולות יד (באחיזה תחתית)",
+    null,
+    "Seated biceps curls with dumbbells (underhand grip)"
+  ],
+  [
+    "כפיפות מרפק בישיבה בכסא כומר עם משקולות יד",
+    null,
+    "Seated preacher biceps curls with dumbbells"
+  ],
+  [
+    "כפיפות מרפק בעמידה בפולי תחתון (חבל)",
+    48,
+    "standng cable biceps curls with rope"
+  ],
+  [
+    "כפיפות מרפק בעמידה בפולי תחתון (מוט)",
+    48,
+    "standng cable biceps curls with bar"
+  ],
+  [
+    "כפיפות מרפק בעמידה עם משקולות (פטישים)",
+    null,
+    "Standing hammer biceps curls with dumbbells"
+  ],
+  [
+    "כפיפות מרפק בעמידה עם משקולות (אחיזה תחתית)",
+    null,
+    "Standing dumbbels biceps curls  (underhand grip)"
+  ],
+  [
+    "כפיפות מרפק בעמידה עם מוט W",
+    null,
+    "Standing biceps curls with W bar"
+  ],
+  [
+    "כפיפות מרפק בעמידה עם מוט אולימפי",
+    null,
+    "Standing biceps curls with Olympic bar"
+  ],
+  [
+    "כפיפות מרפק בשכיבה על ספה בשיפוע חיובי עם מוט W",
+    null,
+    "incline Lying biceps curls  with W bar"
+  ],
+  [
+    "כפיפות מרפק בשכיבה על ספה בשיפוע עליון עם משקולות יד",
+    null,
+    "incline Lying biceps curls  with dumbbels"
+  ],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [
+    "יד אחורית"
+  ],
+  [
+    "פשיטת מרפקים בשכיבה עם מוט W",
+    null,
+    "Lying triceps extension with W bar"
+  ],
+  [
+    "פשיטת מרפקים בשכיבה עם מוט אולימפי",
+    null,
+    "Lying triceps extension with  barbell"
+  ],
+  [
+    "פשיטת מרפקים בשכיבה עם משקולות יד",
+    null,
+    "Lying dumbbells  triceps extension"
+  ],
+  [
+    "פשיטת מרפק בישיבה עם מוט W",
+    null,
+    "Seated triceps extension with W bar"
+  ],
+  [
+    "פשיטת מרפק בישיבה עם משקולת יד",
+    null,
+    "Seated overhead triceps extension with dumbbell"
+  ],
+  [
+    "פשיטת מרפק בעמידה עם פולי עליון (חבל)",
+    48,
+    "Standing triceps push down high pulley (rope)"
+  ],
+  [
+    "פשיטת מרפק בעמידה עם פולי עליון (מוט)",
+    48,
+    "Standing triceps push down high pulley (bar)"
+  ],
+  [
+    "פשיטת מרפק בעמידה עם פולי תחתון (חבל)",
+    48,
+    "Standing triceps extension with low pulley (rope)"
+  ],
+  [
+    "פשיטת מרפק בעמידה מאחורי הראש עם פולי תחתון ",
+    48,
+    " low cable overhead triceps extension"
+  ],
+  [
+    "פשיטת מרפק בהטיית גב עם משקולת יד",
+    null,
+    "dumbbell kickback"
+  ],
+  [
+    "פשיטת מרפק בעמידה מאחורי הראש מפולי עליון",
+    48,
+    " high cable overhead triceps extension"
+  ],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [
+    "כתף"
+  ],
+  [
+    "כפיפת כתף בישיבה בשיפוע חיובי עם משקולות באחיזה ניטרלית",
+    null,
+    " incline Seated dumbbell front raise (mid position)"
+  ],
+  [
+    "כפיפת כתף בישיבה בשיפוע חיובי עם משקולות באחיזה עלית",
+    null,
+    " incline Seated dumbbell front raise  (overhand grip)"
+  ],
+  [
+    "כפיפת כתף בעמידה עם משקולות באחיזה עלית",
+    null,
+    "Standing  dumbbells front raise  (overhand grip)"
+  ],
+  [
+    "כפיפת כתף בעמידה עם משקולות באחיזה ניטרלית",
+    null,
+    " standind dumbbell front raise (mid position)"
+  ],
+  [
+    "לחיצה כתף בישיבה עם משקולות יד",
+    null,
+    "Seated dumbbells shoulder press "
+  ],
+  [
+    "לחיצת כתף בישיבה במכונה",
+    28,
+    " machine shoulder press  "
+  ],
+  [
+    "לחיצת כתף בישיבה עם מוט אולימפי",
+    null,
+    "Seated barbell overhead press"
+  ],
+  [
+    "לחיצת כתף בעמידה עם מוט אולימפי",
+    null,
+    "Standing barbell overhead press"
+  ],
+  [
+    "לחיצת כתף בעמידה עם משקולות יד",
+    null,
+    "Standing dumbbell overhead press"
+  ],
+  [
+    "לחיצת כתף בעמידה עם סמיט מאשין",
+    47,
+    "Standing Smith Machine shoulder press "
+  ],
+  [
+    "הרחקות כתף אופקית בעמידה בפולי",
+    48,
+    "standing cable revers flys"
+  ],
+  [
+    "הרחקות כתף אופקית בשיפוע חיובי עם משקולות יד",
+    null,
+    "incline  rear dumbbell lateral raise"
+  ],
+  [
+    "הרחקת כתף אופקית בעמידה בהטיית גו עם משקולות יד",
+    null,
+    "bent over rear dumbbell lateral raise"
+  ],
+  [
+    "משיכה רחבה בעמידה למצח עם פולי (פייספוול)",
+    48,
+    "Standing wide pull to forehead with pulley (face pull)"
+  ],
+  [
+    "חתירה בעמידה עם מוט w",
+    null,
+    "Standing  barbell upright row with W bar"
+  ],
+  [],
+  [
+    "הרחקת כתף אופקית בישיבה במכונה ( פנים למכשיר)",
+    30,
+    "Seated lever reverse flys (facing the machine)"
+  ],
+  [
+    "הרחקת כתף בישיבה עם משקולות יד",
+    null,
+    "Seated  dumbbellslateral raise"
+  ],
+  [
+    "הרחקת כתף בעמידה עם משקולות יד",
+    null,
+    "Standing dumbbells lateral raise"
+  ],
+  [
+    "כפיפת כתף בעמידה בפולי",
+    48,
+    "standing cable laterl raise"
+  ],
+  [
+    "כפיפת כתף בעמידה עם מוט",
+    null,
+    "Standing barbbell front raise"
+  ],
+  [
+    "חתירה בעמידה עם משקולות יד",
+    null,
+    "Standing  dumbbels upright row"
+  ],
+  [
+    "לחיצת כתף בישיבה על ספסל כנגד משקולות יד ",
+    null,
+    "Seated Shoulder Press with Dumbbells"
+  ],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [
+    "בטן"
+  ],
+  [
+    "אולר",
+    null,
+    "v- ups"
+  ],
+  [
+    "גלגל בטן",
+    null,
+    "Ab wheel rollout"
+  ],
+  [
+    "הרמות רגליים לחזה בתלייה",
+    45,
+    "Hanging leg raises to chest"
+  ],
+  [
+    "הרמות ברכיים לחזה בתלייה",
+    45,
+    "Hanging knee raises to chest"
+  ],
+  [
+    "כפיפות בטן בשכיבה בתוספת משקל",
+    null,
+    "Weighted lying crunches"
+  ],
+  [
+    "כפיפות בטן בישיבה עם פולי",
+    48,
+    "Seated crunches with pulley"
+  ],
+  [
+    "כפיפות בטן על הצד בכסא רומי",
+    52,
+    "Side crunches on Roman chair"
+  ],
+  [
+    "פלאנק",
+    null,
+    "Plank"
+  ],
+  [
+    "פלאנק צידי",
+    null,
+    "Side plank"
+  ],
+  [
+    "כפיפה צידית בכיסא רומי ",
+    52,
+    "Side bend on Roman chair"
+  ],
+  [
+    "כפיפות בטן בשכיבה על הגב",
+    null,
+    "Lying back crunches"
+  ],
+  [
+    "כפיפת בטן בשכיבה בשיפוע שלילי",
+    53,
+    "Decline lying crunches"
+  ],
+  [
+    "אופניים",
+    null,
+    "bicycles"
+  ],
+  [
+    "כפיפות בטן במכונה",
+    25,
+    "Abdominal Crunch on Machine"
+  ],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [
+    "קבוצת שריר"
+  ],
+  [
+    "גב"
+  ],
+  [
+    "חזה"
+  ],
+  [
+    "רגליים"
+  ],
+  [
+    "יד קדמית"
+  ],
+  [
+    "יד אחורית"
+  ],
+  [
+    "כתפיים"
+  ],
+  [
+    "בטן"
+  ],
+  [],
+  [
+    "סטים"
+  ],
+  [
+    1
+  ],
+  [
+    2
+  ],
+  [
+    3
+  ],
+  [
+    4
+  ],
+  [
+    5
+  ],
+  [
+    6
+  ],
+  [],
+  [
+    "מין"
+  ],
+  [
+    "זכר"
+  ],
+  [
+    "נקבה"
+  ],
+  [],
+  [
+    "עצימות אימון"
+  ],
+  [
+    0.45
+  ],
+  [
+    0.5
+  ],
+  [
+    0.55
+  ],
+  [
+    0.6
+  ],
+  [
+    0.65
+  ],
+  [
+    0.7
+  ],
+  [
+    0.75
+  ],
+  [
+    0.8
+  ],
+  [
+    0.85
+  ],
+  [],
+  [
+    "מטרות"
+  ],
+  [
+    "ירידה באחוזי שומן"
+  ],
+  [
+    "עלייה במסת שריר"
+  ],
+  [
+    "חיטוב"
+  ],
+  [
+    "שיפור כושר גופני"
+  ],
+  [
+    "בריאות כללית"
+  ],
+  [
+    "אחר"
+  ],
+  [],
+  [
+    "מאמנים"
+  ],
+  [
+    "מיקי בירנבוים "
+  ],
+  [
+    "יונתן וקסר"
+  ],
+  [
+    "רעות אלבז מאירוב"
+  ],
+  [
+    "אדל חבר"
+  ],
+  [
+    "ליהיא פרידמן"
+  ],
+  [
+    "עידן רוזנטל"
+  ],
+  [
+    "עידו לייבוביץ"
+  ],
+  [
+    "מיטל ברק"
+  ],
+  [
+    "דניאל מכלוף"
+  ],
+  [
+    "לורי לוי"
+  ],
+  [
+    "שירה יוסף"
+  ],
+  [
+    "דורון אלטלט"
+  ],
+  [
+    "הילה מור ברק"
+  ],
+  [],
+  [
+    "זמן מנוחה"
+  ],
+  [
+    45
+  ],
+  [
+    60
+  ],
+  [
+    90
+  ],
+  [
+    120
+  ],
+  [
+    "45-60"
+  ],
+  [
+    "60-75"
+  ],
+  [
+    "75-120"
+  ],
+  [],
+  [
+    "חזרות"
+  ],
+  [
+    1
+  ],
+  [
+    2
+  ],
+  [
+    3
+  ],
+  [
+    4
+  ],
+  [
+    5
+  ],
+  [
+    6
+  ],
+  [
+    7
+  ],
+  [
+    8
+  ],
+  [
+    9
+  ],
+  [
+    10
+  ],
+  [
+    11
+  ],
+  [
+    12
+  ],
+  [
+    13
+  ],
+  [
+    14
+  ],
+  [
+    15
+  ],
+  [
+    "4/6"
+  ],
+  [
+    "6/8"
+  ],
+  [
+    "8/12"
+  ],
+  [
+    "10/15"
+  ],
+  [
+    "מקסימום חזרות עד כשל"
+  ],
+  [],
+  [],
+  [],
+  [],
+  [],
+  []
+]

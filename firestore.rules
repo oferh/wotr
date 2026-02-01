@@ -1,0 +1,33 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    
+    // Check against the dynamic list in config/access
+    function isAllowedUser() {
+      return request.auth != null && 
+        request.auth.token.email in get(/databases/$(database)/documents/config/access).data.allowedEmails;
+    }
+
+    // Workout Plans: Only allowed user can read
+    match /plans/{planId} {
+      allow read: if isAllowedUser();
+      allow write: if false;
+    }
+
+    // User History: Only allowed user can read/write their own data
+    // (Since isAllowedUser checks specific email, this effectively locks it to that one user)
+    match /history/{historyId} {
+      allow read, write: if isAllowedUser();
+    }
+    
+    // Configuration: Allow the hardcoded user to manage access list
+    match /config/access {
+      allow read, write: if isAllowedUser();
+    }
+    
+    // Default deny
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}
