@@ -8,10 +8,9 @@ service cloud.firestore {
         request.auth.token.email in get(/databases/$(database)/documents/config/access).data.allowedEmails;
     }
 
-    // Workout Plans: Only allowed user can read
+    // Workout Plans: Allowed user can read/write
     match /plans/{planId} {
-      allow read: if isAllowedUser();
-      allow write: if false;
+      allow read, write: if isAllowedUser();
     }
 
     // User History: Only allowed user can read/write their own data

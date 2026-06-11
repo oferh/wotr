@@ -1,7 +1,7 @@
 import { create } from 'zustand';
 import { persist } from 'zustand/middleware';
 import { db, auth } from '../lib/firebase';
-import { collection, addDoc, getDocs, query, orderBy, where, doc, onSnapshot } from 'firebase/firestore';
+import { collection, addDoc, getDocs, query, orderBy, where, doc, onSnapshot, setDoc } from 'firebase/firestore';
 import type { Plan } from '../types/workout';
 
 interface WorkoutHistory {
@@ -27,6 +27,7 @@ export interface WorkoutState {
   getSuggestedWorkoutId: () => string;
   fetchHistory: () => Promise<void>;
   subscribeToPlan: () => () => void; // Returns unsubscribe function
+  updateExerciseWeight: (workoutId: string, exerciseId: string, weight: string) => Promise<void>;
 }
 
 export const useWorkoutStore = create<WorkoutState>()(
@@ -144,6 +145,34 @@ export const useWorkoutStore = create<WorkoutState>()(
         });
         
         return unsubscribe;
+      },
+
+      updateExerciseWeight: async (workoutId, exerciseId, weight) => {
+        const { currentPlan } = get();
+        if (!currentPlan) return;
+
+        const workouts = { ...currentPlan.workouts };
+        const workout = workouts[workoutId];
+        if (!workout) return;
+
+        const exercises = workout.exercises.map((ex) => {
+          if (ex.id === exerciseId) {
+            return { ...ex, weight };
+          }
+          return ex;
+        });
+
+        workouts[workoutId] = { ...workout, exercises };
+        const updatedPlan = { ...currentPlan, workouts };
+
+        set({ currentPlan: updatedPlan });
+
+        try {
+          const planRef = doc(db, 'plans', 'default');
+          await setDoc(planRef, { workouts }, { merge: true });
+        } catch (error) {
+          console.error("Error saving exercise weight: ", error);
+        }
       }
     }),
     {
