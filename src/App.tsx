@@ -28,10 +28,12 @@ function App() {
 
   // Fetch data
   useEffect(() => {
+    if (!user) return;
+    
     // Real-time plan subscription
     const unsubscribe = subscribeToPlan();
     return () => unsubscribe();
-  }, [subscribeToPlan]);
+  }, [subscribeToPlan, user]);
 
   const error = useWorkoutStore((state) => state.error);
 
@@ -64,8 +66,11 @@ function App() {
             <div className="p-4 bg-red-500/10 text-red-500 rounded-full">
                 <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="10"/><line x1="15" y1="9" x2="9" y2="15"/><line x1="9" y1="9" x2="15" y2="15"/></svg>
             </div>
-            <h2 className="text-xl font-bold">Access Denied</h2>
-            <p className="text-muted-foreground">{error}</p>
+            <h2 className="text-2xl font-bold">Access Denied</h2>
+            <p className="text-lg text-muted-foreground">{error}</p>
+            <div className="text-base bg-muted p-3 rounded">
+                Logged in as: <span className="font-mono font-bold text-foreground">{user?.email}</span>
+            </div>
             <p className="text-sm text-muted-foreground animate-pulse">Signing out in 10 seconds...</p>
             <button 
                 onClick={() => auth.signOut()}

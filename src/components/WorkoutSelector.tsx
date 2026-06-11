@@ -18,7 +18,9 @@ export function WorkoutSelector() {
     <div className="space-y-4">
       <h2 className="text-lg font-semibold px-1">Select Workout</h2>
       <div className="grid gap-3">
-        {(Object.values(currentPlan.workouts) as Workout[]).map((workout) => {
+        {(Object.values(currentPlan.workouts) as Workout[])
+          .filter((workout) => !workout.archived)
+          .map((workout) => {
           const isSuggested = workout.id === suggestedId;
           
           return (

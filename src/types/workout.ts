@@ -15,6 +15,7 @@ export interface Workout {
   id: string;
   name: string;
   exercises: Exercise[];
+  archived?: boolean;
 }
 
 export interface Plan {
